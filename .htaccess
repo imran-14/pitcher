@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^(enterdetails) enter-details.php
+RewriteRule ^(home) user-home.php
+RewriteRule ^(profile) user-profile.php
+RewriteRule ^(uploadimage) user-image.php
+RewriteRule ^(searchfriends) user-makefriends.php
